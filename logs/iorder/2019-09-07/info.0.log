@@ -1,0 +1,12 @@
+[INFO ] 2019-09-07 21:15:38 [main] c.t.s.SpringBootSlf4jApplicationTests - Starting SpringBootSlf4jApplicationTests on DESKTOP-AONFLG1 with PID 4560 (started by 28123 in E:\Y2课程\spring-boot\spring-boot回顾\spring-boot-slf4j)
+[INFO ] 2019-09-07 21:15:38 [main] c.t.s.SpringBootSlf4jApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2019-09-07 21:15:38 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-09-07 21:15:38 [main] c.t.s.SpringBootSlf4jApplicationTests - Started SpringBootSlf4jApplicationTests in 3.491 seconds (JVM running for 4.556)
+[INFO ] 2019-09-07 21:15:38 [main] c.t.s.SpringBootSlf4jApplicationTests - 这是info....
+[INFO ] 2019-09-07 21:15:38 [Thread-2] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-09-07 21:16:43 [main] c.t.s.SpringBootSlf4jApplicationTests - Starting SpringBootSlf4jApplicationTests on DESKTOP-AONFLG1 with PID 11988 (started by 28123 in E:\Y2课程\spring-boot\spring-boot回顾\spring-boot-slf4j)
+[INFO ] 2019-09-07 21:16:43 [main] c.t.s.SpringBootSlf4jApplicationTests - The following profiles are active: dev
+[INFO ] 2019-09-07 21:16:43 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-09-07 21:16:43 [main] c.t.s.SpringBootSlf4jApplicationTests - Started SpringBootSlf4jApplicationTests in 2.919 seconds (JVM running for 3.936)
+[INFO ] 2019-09-07 21:16:43 [main] c.t.s.SpringBootSlf4jApplicationTests - 这是info....
+[INFO ] 2019-09-07 21:16:43 [Thread-2] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
